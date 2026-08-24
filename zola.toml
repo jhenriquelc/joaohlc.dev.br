@@ -29,8 +29,8 @@ theme = "catppuccin-mocha"
 accent_color = "#04E762"
 styles=["custom.css"]
 show_copy_button = true
-issues_url = "https://github.com/jhenriquelc/site-pessoal/issues"
-source_url = "https://github.com/jhenriquelc/site-pessoal"
+issues_url = "https://github.com/jhenriquelc/joaohlc.dev.br/issues"
+source_url = "https://github.com/jhenriquelc/joaohlc.dev.br"
 default_theme = "dark"
 
 [extra.nav]
